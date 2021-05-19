@@ -3,4 +3,4 @@
 
 - [x] add github link
 - [ ] add email subscription
-- [x] add other teams and leagues
+- [x] add other teams and leagues# README
